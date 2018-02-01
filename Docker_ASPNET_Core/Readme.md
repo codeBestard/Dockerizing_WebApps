@@ -7,7 +7,7 @@
 > docker-compose build
 ```
 
-3. Start Docker Image
+3. Start Docker Container
 ```sh
 > docker run --rm -d -p 3333:80 <optional-prefix>/myshop
 ```
