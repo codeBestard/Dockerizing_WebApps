@@ -10,7 +10,7 @@
 > docker build -t <optional-prefix>/node-web-app .
 ```
 
-3. Start Docker Image
+3. Start Docker Container
 ```sh
 > docker run  -d -p 3000:8080 <optional-prefix>/node-web-app
 ```
